@@ -1,2 +1,2 @@
 # testing
-testing the clone command
+this is testing the clone command
